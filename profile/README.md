@@ -6,7 +6,7 @@
 **윤석규**
 
 - 학번: 20191487
-- GitHub: [@marso34](https://github.com/um0772)
+- GitHub: [@um0772](https://github.com/um0772)
 
 **이준**
 
@@ -16,22 +16,22 @@
 **박상훈**
 
 - 학번: 20191474 
-- GitHub: [@ooANAoo](https://github.com/ooANAoo)
+- GitHub: [@janmki08](https://github.com/janmki08)
 
 **박세민**
 
 - 학번: 20191476
-- GitHub: [@hwstar-1204](https://github.com/hwstar-1204)
+- GitHub: [@ParkSemin](https://github.com/ParkSemin)
 
 **최대현**
 
 - 학번: 20210969
-- GitHub: [@sunghyun123](https://github.com/sunghyun123)
+- GitHub: [@hia1394](https://github.com/hia1394)
 
 **김은서**
 
 - 학번: 20190439
-- GitHub: [@KimSeonBo](https://github.com/KimSeonBo)
+- GitHub: [@MercyForYou](https://github.com/MercyForYou)
 
 **박민진**
 
