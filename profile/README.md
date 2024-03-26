@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-## 강릉원주대 캡스톤디자인 1조
+## 강릉원주대 캡스톤디자인 1조 - 위스퍼whisper
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -40,7 +40,7 @@
 **박민진**
 
 - 학번: 20231856 
-- GitHub: 
+- GitHub: [@mjpark07](https://github.com/mjpark07)
 
 <!--
 
