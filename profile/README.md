@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-## 강릉원주대 캡스톤디자인 1조 - 위스퍼whisper
+## 강릉원주대 캡스톤디자인 1조 - 위스퍼 whisper
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
