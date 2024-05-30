@@ -10,7 +10,7 @@
 
 <div align="center">
   <br>
-  <img src="info/system Architecture.png" width="700">
+  <img src="./info/system Architecture.png" width="700">
 </div>
 
 <br>
