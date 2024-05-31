@@ -2,7 +2,13 @@
 
 # 강릉원주대 캡스톤디자인 1조 - 위스퍼 whisper
 
-- 개요 작성
+- 실시간 문서 작성, 채팅 및 음성 채팅을 통한 협업 툴
+
+<br>
+
+## Demo 영상
+[![Video Label](http://img.youtube.com/vi/SpGs63TbQ7Q/0.jpg)](https://youtu.be/SpGs63TbQ7Q)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -20,7 +26,7 @@
 ### 시스템 상세
 - User Service: [cooper-spring-user](https://github.com/cooper-0/cooper-spring-user)
 - Chat Service: [cooper-spring-chat](https://github.com/cooper-0/cooper-spring-chat)
-- Voice-Chat Service: [cooper-spring-mdia](https://github.com/cooper-0/cooper-spring-media)
+- Voice-Chat Service: [cooper-spring-media](https://github.com/cooper-0/cooper-spring-media)
 - Docs Service: [cooper-spring-realtimedocument](https://github.com/cooper-0/cooper-spring-realtimedocument/tree/develop)
 - API Gateway: [cooper-spring-gateway](https://github.com/cooper-0/cooper-spring-gateway)
 - Service Registry: [cooper-spring-discovery](https://github.com/cooper-0/cooper-spring-discovery)
