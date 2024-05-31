@@ -16,9 +16,15 @@
 <br>
 <br>
 
-- 아키텍처 설명 작성
 
-
+### 시스템 상세
+- API Gateway: [cooper-spring-gateway](https://github.com/cooper-0/cooper-spring-gateway)
+- Service Registry: [cooper-spring-discovery](https://github.com/cooper-0/cooper-spring-discovery)
+- User Service: [cooper-spring-user](https://github.com/cooper-0/cooper-spring-user)
+- Chat Service: [cooper-spring-chat](https://github.com/cooper-0/cooper-spring-chat)
+- Voice-Chat Service: [cooper-spring-mdia](https://github.com/cooper-0/cooper-spring-media)
+- Docs Service: [cooper-spring-realtimedocument](https://github.com/cooper-0/cooper-spring-realtimedocument/tree/develop)
+- Front-End: [cooper-vue-frontend](https://github.com/cooper-0/cooper-vue-frontend)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
