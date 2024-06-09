@@ -15,8 +15,11 @@
 ## 시스템 아키텍처
 
 <div align="center">
-  <br>
-  <img src="profile/info/system Architecture.png" width="700">
+  
+  <br>  
+  
+  ![system Architecture](https://github.com/cooper-0/.github/assets/96871583/8e2f2ae5-4017-4d65-b0ba-ebbbfdbc0aa9)
+  
 </div>
 
 <br>
