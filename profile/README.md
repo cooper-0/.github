@@ -1,14 +1,14 @@
 <a name="readme-top"></a>
 
-# 강릉원주대 캡스톤디자인 1조 - 위스퍼 whisper
+<div align="right">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcooper-0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+
+# Cooper - cooperate
 
 - 실시간 문서 작성, 채팅 및 음성 채팅을 통한 협업 툴
 
 <br>
-
-## Demo 영상
-[![Video Label](http://img.youtube.com/vi/SpGs63TbQ7Q/0.jpg)](https://youtu.be/SpGs63TbQ7Q)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -30,7 +30,7 @@
 - User Service: [cooper-spring-user](https://github.com/cooper-0/cooper-spring-user)
 - Chat Service: [cooper-spring-chat](https://github.com/cooper-0/cooper-spring-chat)
 - Voice-Chat Service: [cooper-spring-media](https://github.com/cooper-0/cooper-spring-media)
-- Docs Service: [cooper-spring-realtimedocument](https://github.com/cooper-0/cooper-spring-realtimedocument)
+- Docs Service: [cooper-spring-docs](https://github.com/cooper-0/cooper-spring-docs)
 - API Gateway: [cooper-spring-gateway](https://github.com/cooper-0/cooper-spring-gateway)
 - Service Registry: [cooper-spring-discovery](https://github.com/cooper-0/cooper-spring-discovery)
 - Front-End: [cooper-vue-frontend](https://github.com/cooper-0/cooper-vue-frontend)
@@ -40,44 +40,30 @@
 
 ## 팀원
 
+**이준**
+- Beck-End: Voice-Chat Service, API Gateway, Service Registry
+- GitHub: [@marso34](https://github.com/marso34)
+  
 **윤석규**
-
-- 학번: 20191487
 - Beck-End: Chat Service
 - GitHub: [@um0772](https://github.com/um0772)
 
-**이준**
-
-- 학번: 20181468
-- Beck-End: Voice-Chat Service, API Gateway, Service Registry
-- GitHub: [@marso34](https://github.com/marso34)
-
 **박상훈**
-
-- 학번: 20191474
 - Beck-End: Docs Service
 - GitHub: [@janmki08](https://github.com/janmki08)
 
 **박세민**
-
-- 학번: 20191476
 - Beck-End: Docs Service
 - GitHub: [@ParkSemin](https://github.com/ParkSemin)
 
 **최대현**
-
-- 학번: 20210969
 - Beck-End: User Service
 - GitHub: [@hia1394](https://github.com/hia1394)
 
 **김은서**
-
-- 학번: 20190439
 - Front-End
 - GitHub: [@MercyForYou](https://github.com/MercyForYou)
 
 **박민진**
-
-- 학번: 20231856
 - Front-End
 - GitHub: [@mjpark07](https://github.com/mjpark07)
